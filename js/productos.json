@@ -1,0 +1,102 @@
+[
+    {
+        "id": "mantasolar-01",
+        "titulo": "Manta Solar 01",
+        "imagen": "./img/mantasolar/mantasolar-png.png",
+        "categoria": {
+            "nombre": "Mantas",
+            "id": "mantas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "mantasolar-02",
+        "titulo": "Manta Solar 02",
+        "imagen": "./img/mantasolar/mantasolar2.jpeg",
+        "categoria": {
+            "nombre": "Mantas",
+            "id": "mantas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "mantasolar-03",
+        "titulo": "Manta Solar 03",
+        "imagen": "./img/mantasolar/mantasolar3.jpeg",
+        "categoria": {
+            "nombre": "Mantas",
+            "id": "mantas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "mantasolar-04",
+        "titulo": "Manta Solar 04",
+        "imagen": "./img/mantasolar/mantasolar4.jpeg",
+        "categoria": {
+            "nombre": "Mantas",
+            "id": "mantas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "panelsolar-01",
+        "titulo": "Panel Solar 01",
+        "imagen": "./img/panelsolar/panelsolar1.jpeg",
+        "categoria": {
+            "nombre": "Paneles",
+            "id": "paneles"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "panelsolar-02",
+        "titulo": "Panel Solar 02",
+        "imagen": "./img/panelsolar/panelsolar2.jpeg",
+        "categoria": {
+            "nombre": "Paneles",
+            "id": "paneles"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "panelsolar-03",
+        "titulo": "Panel Solar 03",
+        "imagen": "./img/panelsolar/panelsolar-png.png",
+        "categoria": {
+            "nombre": "Paneles",
+            "id": "paneles"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "termotanquesolar-02",
+        "titulo": "Termotanque Solar 02",
+        "imagen": "./img/termotanquesolar/termotanquesolar.jpeg",
+        "categoria": {
+            "nombre": "Termotanques",
+            "id": "termotanques"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "termotanquesolar-03",
+        "titulo": "Termotanque Solar 03",
+        "imagen": "./img/termotanquesolar/termotanquesolar3.jpeg",
+        "categoria": {
+            "nombre": "Termotanques",
+            "id": "termotanques"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "termotanquesolar-01",
+        "titulo": "Termotanque Solar 01",
+        "imagen": "./img/termotanquesolar/termotanquesolar-png.png",
+        "categoria": {
+            "nombre": "Termotanques",
+            "id": "termotanques"
+        },
+        "precio": 6000
+    }
+]
